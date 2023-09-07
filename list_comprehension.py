@@ -1,6 +1,0 @@
-fib=int (input("num:"))
-
-
-
-
-    

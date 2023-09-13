@@ -2,6 +2,7 @@ import os
 import pandas as pd
 from parsel import Selector
 folder_name='D:/html_files'
+
 for file_name in os.listdir(folder_name):
         print('file name------>',file_name)
         file_path=os.path.join(folder_name,file_name)
@@ -15,4 +16,8 @@ for file_name in os.listdir(folder_name):
         item['list_of_car_prices']=response.xpath('//h4[@class="sl-heading-prices sl-price"]/text()').getall()
         print(item)
         data_frame=pd.DataFrame(item)
-        data_frame.to_csv('html_parsing_output.csv',mode='a',index=False)
+        
+        if os.path.exists("html_parsing_output.csv"):
+            data_frame.to_csv('html_parsing_output.csv',mode='a',index=False,header=False)
+        else:
+            data_frame.to_csv('html_parsing_output.csv',mode='a',index=False)

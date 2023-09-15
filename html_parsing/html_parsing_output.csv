@@ -1,120 +1,110 @@
-file_path,list_of_car_names,list_of_car_prices
-D:\python_script/D:/html_files\car1.html,2023 Ford Ranger Raptor MY22 4X4 Constant,"$104,990"
-D:\python_script/D:/html_files\car1.html,2023 Volkswagen Tiguan 110TSI Life 5N MY23,"$44,990"
-D:\python_script/D:/html_files\car1.html,2023 Toyota Landcruiser Sahara ZX FJA300R 4X4 Dual Range,"$154,990"
-D:\python_script/D:/html_files\car1.html,2023 Audi RS5  F5 MY23 Four Wheel Drive,"$174,990"
-D:\python_script/D:/html_files\car1.html,2023 Ssangyong Rexton Ultimate Y450 MY23 4X4 Dual Range,"$51,990"
-D:\python_script/D:/html_files\car1.html,2023 Audi Q5 35 TDI FY MY23,"$74,990"
-D:\python_script/D:/html_files\car1.html,2023 Volkswagen T-Cross 85TSI Life C11 MY23,"$33,590"
-D:\python_script/D:/html_files\car1.html,2023 Volkswagen T-Cross 85TSI Life C11 MY23,"$33,590"
-D:\python_script/D:/html_files\car1.html,2023 Volkswagen T-Cross 85TSI Style C11 MY23,"$37,990"
-D:\python_script/D:/html_files\car1.html,2023 Volkswagen Tiguan 162TSI R-Line 5N MY23 Four Wheel Drive,"$59,990"
-file_path,list_of_car_names,list_of_car_prices
-D:\python_script/D:/html_files\car54.html,2015 Mitsubishi Outlander LS ZK MY16 4X4 On Demand,"$18,990"
-D:\python_script/D:/html_files\car54.html,2015 Volkswagen Golf R 7 MY16 Four Wheel Drive,"$34,990"
-D:\python_script/D:/html_files\car54.html,2015 Hyundai I30  GDE3 Series II MY16,"$18,990"
-D:\python_script/D:/html_files\car54.html,2015 Holden Commodore SV6 VF MY15,"$19,990"
-D:\python_script/D:/html_files\car54.html,2015 Hyundai Santa FE Active DM3 Series II MY16 4X4 On Demand,"$21,990"
-D:\python_script/D:/html_files\car54.html,2015 Chrysler 300 SRT-8 Core Satin Vapour LX MY14,"$47,990"
-D:\python_script/D:/html_files\car54.html,2015 Jaguar XE 20D R-Sport X760 MY16,"$29,990"
-D:\python_script/D:/html_files\car54.html,2015 Mercedes-Benz GLE-Class GLE350 D C292 Four Wheel Drive,"$64,990"
-D:\python_script/D:/html_files\car54.html,2014 Renault Clio Expression IV B98,"$13,990"
-D:\python_script/D:/html_files\car54.html,2014 Nissan Pathfinder ST R52 MY14 4X4 On Demand,"$16,990"
-file_path,list_of_car_names,list_of_car_prices
-D:\python_script/D:/html_files\car55.html,2014 Subaru Forester XT S4 MY14 AWD,"$29,990"
-D:\python_script/D:/html_files\car55.html,2014 Subaru XV 2.0I G4X MY14 AWD,"$17,990"
-D:\python_script/D:/html_files\car55.html,2014 Ford Ranger Wildtrak PX 4X4 Dual Range,"$35,990"
-D:\python_script/D:/html_files\car55.html,2014 Mitsubishi Triton GLX-R MN MY15 4X4 Dual Range,"$29,990"
-D:\python_script/D:/html_files\car55.html,2014 Subaru XV 2.0I G4X MY14 AWD,"$23,990"
-D:\python_script/D:/html_files\car55.html,2014 Audi SQ5 TDI 8R MY14 Four Wheel Drive,"$34,990"
-D:\python_script/D:/html_files\car55.html,2014 Ford Ranger XL PX,"$18,990"
-D:\python_script/D:/html_files\car55.html,2014 Ford Ranger Wildtrak PX 4X4 Dual Range,"$23,990"
-D:\python_script/D:/html_files\car55.html,2014 Ford Falcon UTE XR6 Turbo FG Mkii,"$31,990"
-D:\python_script/D:/html_files\car55.html,2014 Toyota FJ Cruiser  GSJ15R MY14 4X4 Dual Range,"$43,990"
-file_path,list_of_car_names,list_of_car_prices
-D:\python_script/D:/html_files\car56.html,2014 Subaru Forester 2.5I S4 MY14 AWD,"$19,990"
-D:\python_script/D:/html_files\car56.html,2014 Jeep Cherokee Longitude KL MY15 4X4 On Demand,"$23,990"
-D:\python_script/D:/html_files\car56.html,2014 Mitsubishi Pajero Exceed NX MY15 4X4 Dual Range,"$37,990"
-D:\python_script/D:/html_files\car56.html,2014 KIA Cerato S YD MY15,"$14,990"
-D:\python_script/D:/html_files\car56.html,2014 Subaru XV 2.0I-S G4X MY14 AWD,"$18,990"
-D:\python_script/D:/html_files\car56.html,2014 Mitsubishi Pajero Exceed NX MY15 4X4 Dual Range,"$39,990"
-D:\python_script/D:/html_files\car56.html,2014 Mazda BT-50 XTR UP 4X4 Dual Range,"$29,990"
-D:\python_script/D:/html_files\car56.html,2014 Nissan X-Trail TL T32 4X4 On Demand,"$16,990"
-D:\python_script/D:/html_files\car56.html,2014 Mazda 2 NEO Sport DE Series 2 MY14,"$13,990"
-D:\python_script/D:/html_files\car56.html,2014 Ford Ranger XLT PX 4X4 Dual Range,"$41,888"
-file_path,list_of_car_names,list_of_car_prices
-D:\python_script/D:/html_files\car57.html,2014 Renault Koleos Expression H45 Phase III,"$12,990"
-D:\python_script/D:/html_files\car57.html,2013 Ford Ranger Wildtrak PX 4X4 Dual Range,"$28,990"
-D:\python_script/D:/html_files\car57.html,2013 Holden UTE  VF MY14,"$28,990"
-D:\python_script/D:/html_files\car57.html,2013 Mitsubishi Pajero VR-X NW MY14 4X4,"$27,990"
-D:\python_script/D:/html_files\car57.html,2013 Toyota FJ Cruiser  GSJ15R 4X4 Dual Range,"$41,990"
-D:\python_script/D:/html_files\car57.html,2013 Subaru XV 2.0I G4X MY13 AWD,"$21,990"
-D:\python_script/D:/html_files\car57.html,2013 Mitsubishi Triton GLX MN MY14 4X4 Dual Range,"$19,990"
-D:\python_script/D:/html_files\car57.html,2013 Mitsubishi Triton GLX MN MY13 4X4 Dual Range,"$19,990"
-D:\python_script/D:/html_files\car57.html,2013 Mitsubishi Triton GLX MN MY13 4X4 Dual Range,"$21,990"
-D:\python_script/D:/html_files\car57.html,2013 Renault Megane Dynamique III K95 MY13,"$14,990"
-file_path,list_of_car_names,list_of_car_prices
-D:\python_script/D:/html_files\car58.html,2013 Toyota Hilux SR KUN26R MY12 4X4,"$37,990"
-D:\python_script/D:/html_files\car58.html,2013 Renault Megane Expression III B95 MY13,"$12,990"
-D:\python_script/D:/html_files\car58.html,2013 Holden Calais V VF MY14,"$24,990"
-D:\python_script/D:/html_files\car58.html,2013 Holden Calais V VF MY14,"$26,990"
-D:\python_script/D:/html_files\car58.html,2013 Volkswagen Tiguan 132TSI Pacific 5N MY13.5 Four Wheel Drive,"$14,990"
-D:\python_script/D:/html_files\car58.html,2012 Mitsubishi Triton GLX MN MY13,"$18,990"
-D:\python_script/D:/html_files\car58.html,2012 Mazda 3 NEO BL Series 2,"$15,990"
-D:\python_script/D:/html_files\car58.html,2012 Nissan X-Trail ST-L T31 Series IV 4X4 On Demand,"$11,990"
-D:\python_script/D:/html_files\car58.html,2012 Mazda BT-50 XT UP 4X4 Dual Range,"$30,990"
-D:\python_script/D:/html_files\car58.html,2012 Subaru XV 2.0I-L G4X MY12 AWD,"$18,990"
-file_path,list_of_car_names,list_of_car_prices
-D:\python_script/D:/html_files\car59.html,2012 Hyundai Veloster  FS,"$14,990"
-D:\python_script/D:/html_files\car59.html,2012 Mitsubishi Lancer ES CJ MY12,"$11,990"
-D:\python_script/D:/html_files\car59.html,2012 Holden Calais V VE Series II MY12,"$14,990"
-D:\python_script/D:/html_files\car59.html,2012 Nissan 370Z  Z34 MY11,"$28,990"
-D:\python_script/D:/html_files\car59.html,2012 Subaru Impreza 2.0I G4 MY12 AWD,"$11,990"
-D:\python_script/D:/html_files\car59.html,2012 Isuzu D-MAX LS-U MY12 4X4 Dual Range,"$32,990"
-D:\python_script/D:/html_files\car59.html,2012 Mitsubishi Triton GLX-R MN MY12 4X4 Dual Range,"$26,990"
-D:\python_script/D:/html_files\car59.html,2012 Subaru Forester X S3 MY12 AWD,"$11,990"
-D:\python_script/D:/html_files\car59.html,2012 Ford Ranger XL PX 4X4 Dual Range,"$21,990"
-D:\python_script/D:/html_files\car59.html,2012 Ford Ranger XL PX 4X4 Dual Range,"$23,990"
-file_path,list_of_car_names,list_of_car_prices
-D:\python_script/D:/html_files\car60.html,2011 Mazda 3 NEO BL Series 1 MY10,"$8,990"
-D:\python_script/D:/html_files\car60.html,2011 Subaru Forester XT Premium S3 MY11 AWD,"$15,990"
-D:\python_script/D:/html_files\car60.html,2011 Nissan Navara RX D40 MY11,"$15,990"
-D:\python_script/D:/html_files\car60.html,2011 Holden Special Vehicles Clubsport R8 E Series 3,"$56,990"
-D:\python_script/D:/html_files\car60.html,2011 Nissan Maxima 250 ST-L J32,"$12,990"
-D:\python_script/D:/html_files\car60.html,2011 Toyota FJ Cruiser  GSJ15R 4X4 Dual Range,"$33,990"
-D:\python_script/D:/html_files\car60.html,2011 Volkswagen Passat 125TDI CC Type 3CC MY11,"$12,990"
-D:\python_script/D:/html_files\car60.html,2011 Subaru Impreza R G3 MY11 AWD,"$12,990"
-D:\python_script/D:/html_files\car60.html,2011 Jeep Wrangler Sport JK MY12 4X4,"$24,990"
-D:\python_script/D:/html_files\car60.html,2011 Volvo XC90 D5 R-Design MY11 4X4 On Demand,"$12,990"
-file_path,list_of_car_names,list_of_car_prices
-D:\python_script/D:/html_files\car61.html,2011 Lexus CT 200H Sports Luxury ZWA10R,"$22,990"
-D:\python_script/D:/html_files\car61.html,2010 Toyota Landcruiser Prado GXL KDJ150R 4X4 Constant,"$24,990"
-D:\python_script/D:/html_files\car61.html,2010 Ford Focus Tdci LV MK II,"$11,990"
-D:\python_script/D:/html_files\car61.html,2010 Mini Hatch Cooper R56,"$13,990"
-D:\python_script/D:/html_files\car61.html,2010 Hyundai IX35 Highlander LM AWD,"$15,990"
-D:\python_script/D:/html_files\car61.html,2010 Audi A4  B8 MY10,"$11,000"
-D:\python_script/D:/html_files\car61.html,2010 Nissan Navara RX D40 4X4 Dual Range,"$19,990"
-D:\python_script/D:/html_files\car61.html,2010 Toyota Landcruiser 60TH Anniversary VDJ200R MY10 4X4 Constant,"$50,990"
-D:\python_script/D:/html_files\car61.html,2010 Nissan X-Trail ST T31 Series IV,"$11,990"
-D:\python_script/D:/html_files\car61.html,2010 Toyota Yaris YR NCP90R MY11,"$11,990"
-file_path,list_of_car_names,list_of_car_prices
-D:\python_script/D:/html_files\car62.html,2009 Holden Special Vehicles Maloo R8 E Series MY09,"$54,990"
-D:\python_script/D:/html_files\car62.html,2009 Toyota Corolla Ascent ZRE152R,"$8,990"
-D:\python_script/D:/html_files\car62.html,2009 Nissan Navara RX D40 4X4 Dual Range,"$13,990"
-D:\python_script/D:/html_files\car62.html,2008 Suzuki Grand Vitara  JB Type 2 4X4 Dual Range,"$9,990"
-D:\python_script/D:/html_files\car62.html,2008 Toyota Landcruiser GXL VDJ200R 4X4 Constant,"$44,990"
-D:\python_script/D:/html_files\car62.html,2008 Mitsubishi Pajero GLX NS 4X4,"$14,990"
-D:\python_script/D:/html_files\car62.html,2008 Suzuki Jimny Sierra Trekker SN413 T6 4X4 Dual Range,"$16,990"
-D:\python_script/D:/html_files\car62.html,2008 Subaru Liberty Heritage 4GEN MY09 AWD,"$6,990"
-D:\python_script/D:/html_files\car62.html,2008 Mitsubishi Pajero VR-X NS 4X4,"$15,990"
-D:\python_script/D:/html_files\car62.html,2007 Holden Special Vehicles Clubsport R8 E Series,"$36,990"
-file_path,list_of_car_names,list_of_car_prices
-D:\python_script/D:/html_files\car63.html,2007 Toyota Landcruiser GXL VDJ200R 4X4 Constant,"$42,990"
-D:\python_script/D:/html_files\car63.html,2007 Holden Special Vehicles Clubsport R8 E Series,"$39,990"
-D:\python_script/D:/html_files\car63.html,2007 Mini Hatch Cooper Chilli R56,"$16,990"
-D:\python_script/D:/html_files\car63.html,2006 Ford F250 XLT RN,"$52,990"
-D:\python_script/D:/html_files\car63.html,2006 Peugeot 307 CC Dynamic T6,"$9,990"
-D:\python_script/D:/html_files\car63.html,2006 Toyota Corolla Ascent ZZE122R,"$10,490"
-D:\python_script/D:/html_files\car63.html,2004 Mitsubishi Challenger  PA MY05 4X4 Dual Range,"$9,990"
-D:\python_script/D:/html_files\car63.html,2004 Nissan Maxima TI J31,"$7,990"
-D:\python_script/D:/html_files\car63.html,2000 Holden Special Vehicles Clubsport R8 VX,"$36,990"
+file_path,car_name,year,price,currency_symbol
+D:\html_files\car1.html,Ford Ranger Raptor MY22 4X4 Constant,2023,"104,990",$
+D:\html_files\car1.html,Volkswagen Tiguan 110TSI Life 5N MY23,2023,"44,990",$
+D:\html_files\car1.html,Toyota Landcruiser Sahara ZX FJA300R 4X4 Dual Range,2023,"154,990",$
+D:\html_files\car1.html,Audi RS5  F5 MY23 Four Wheel Drive,2023,"174,990",$
+D:\html_files\car1.html,Ssangyong Rexton Ultimate Y450 MY23 4X4 Dual Range,2023,"51,990",$
+D:\html_files\car1.html,Audi Q5 35 TDI FY MY23,2023,"74,990",$
+D:\html_files\car1.html,Volkswagen T-Cross 85TSI Life C11 MY23,2023,"33,590",$
+D:\html_files\car1.html,Volkswagen T-Cross 85TSI Life C11 MY23,2023,"33,590",$
+D:\html_files\car1.html,Volkswagen T-Cross 85TSI Style C11 MY23,2023,"37,990",$
+D:\html_files\car1.html,Volkswagen Tiguan 162TSI R-Line 5N MY23 Four Wheel Drive,2023,"59,990",$
+D:\html_files\car54.html,Mitsubishi Outlander LS ZK MY16 4X4 On Demand,2015,"18,990",$
+D:\html_files\car54.html,Volkswagen Golf R 7 MY16 Four Wheel Drive,2015,"34,990",$
+D:\html_files\car54.html,Hyundai I30  GDE3 Series II MY16,2015,"18,990",$
+D:\html_files\car54.html,Holden Commodore SV6 VF MY15,2015,"19,990",$
+D:\html_files\car54.html,Hyundai Santa FE Active DM3 Series II MY16 4X4 On Demand,2015,"21,990",$
+D:\html_files\car54.html,Chrysler 300 SRT-8 Core Satin Vapour LX MY14,2015,"47,990",$
+D:\html_files\car54.html,Jaguar XE 20D R-Sport X760 MY16,2015,"29,990",$
+D:\html_files\car54.html,Mercedes-Benz GLE-Class GLE350 D C292 Four Wheel Drive,2015,"64,990",$
+D:\html_files\car54.html,Renault Clio Expression IV B98,2014,"13,990",$
+D:\html_files\car54.html,Nissan Pathfinder ST R52 MY14 4X4 On Demand,2014,"16,990",$
+D:\html_files\car55.html,Subaru Forester XT S4 MY14 AWD,2014,"29,990",$
+D:\html_files\car55.html,Subaru XV 2.0I G4X MY14 AWD,2014,"17,990",$
+D:\html_files\car55.html,Ford Ranger Wildtrak PX 4X4 Dual Range,2014,"35,990",$
+D:\html_files\car55.html,Mitsubishi Triton GLX-R MN MY15 4X4 Dual Range,2014,"29,990",$
+D:\html_files\car55.html,Subaru XV 2.0I G4X MY14 AWD,2014,"23,990",$
+D:\html_files\car55.html,Audi SQ5 TDI 8R MY14 Four Wheel Drive,2014,"34,990",$
+D:\html_files\car55.html,Ford Ranger XL PX,2014,"18,990",$
+D:\html_files\car55.html,Ford Ranger Wildtrak PX 4X4 Dual Range,2014,"23,990",$
+D:\html_files\car55.html,Ford Falcon UTE XR6 Turbo FG Mkii,2014,"31,990",$
+D:\html_files\car55.html,Toyota FJ Cruiser  GSJ15R MY14 4X4 Dual Range,2014,"43,990",$
+D:\html_files\car56.html,Subaru Forester 2.5I S4 MY14 AWD,2014,"19,990",$
+D:\html_files\car56.html,Jeep Cherokee Longitude KL MY15 4X4 On Demand,2014,"23,990",$
+D:\html_files\car56.html,Mitsubishi Pajero Exceed NX MY15 4X4 Dual Range,2014,"37,990",$
+D:\html_files\car56.html,KIA Cerato S YD MY15,2014,"14,990",$
+D:\html_files\car56.html,Subaru XV 2.0I-S G4X MY14 AWD,2014,"18,990",$
+D:\html_files\car56.html,Mitsubishi Pajero Exceed NX MY15 4X4 Dual Range,2014,"39,990",$
+D:\html_files\car56.html,Mazda BT-50 XTR UP 4X4 Dual Range,2014,"29,990",$
+D:\html_files\car56.html,Nissan X-Trail TL T32 4X4 On Demand,2014,"16,990",$
+D:\html_files\car56.html,Mazda 2 NEO Sport DE Series 2 MY14,2014,"13,990",$
+D:\html_files\car56.html,Ford Ranger XLT PX 4X4 Dual Range,2014,"41,888",$
+D:\html_files\car57.html,Renault Koleos Expression H45 Phase III,2014,"12,990",$
+D:\html_files\car57.html,Ford Ranger Wildtrak PX 4X4 Dual Range,2013,"28,990",$
+D:\html_files\car57.html,Holden UTE  VF MY14,2013,"28,990",$
+D:\html_files\car57.html,Mitsubishi Pajero VR-X NW MY14 4X4,2013,"27,990",$
+D:\html_files\car57.html,Toyota FJ Cruiser  GSJ15R 4X4 Dual Range,2013,"41,990",$
+D:\html_files\car57.html,Subaru XV 2.0I G4X MY13 AWD,2013,"21,990",$
+D:\html_files\car57.html,Mitsubishi Triton GLX MN MY14 4X4 Dual Range,2013,"19,990",$
+D:\html_files\car57.html,Mitsubishi Triton GLX MN MY13 4X4 Dual Range,2013,"19,990",$
+D:\html_files\car57.html,Mitsubishi Triton GLX MN MY13 4X4 Dual Range,2013,"21,990",$
+D:\html_files\car57.html,Renault Megane Dynamique III K95 MY13,2013,"14,990",$
+D:\html_files\car58.html,Toyota Hilux SR KUN26R MY12 4X4,2013,"37,990",$
+D:\html_files\car58.html,Renault Megane Expression III B95 MY13,2013,"12,990",$
+D:\html_files\car58.html,Holden Calais V VF MY14,2013,"24,990",$
+D:\html_files\car58.html,Holden Calais V VF MY14,2013,"26,990",$
+D:\html_files\car58.html,Volkswagen Tiguan 132TSI Pacific 5N MY13.5 Four Wheel Drive,2013,"14,990",$
+D:\html_files\car58.html,Mitsubishi Triton GLX MN MY13,2012,"18,990",$
+D:\html_files\car58.html,Mazda 3 NEO BL Series 2,2012,"15,990",$
+D:\html_files\car58.html,Nissan X-Trail ST-L T31 Series IV 4X4 On Demand,2012,"11,990",$
+D:\html_files\car58.html,Mazda BT-50 XT UP 4X4 Dual Range,2012,"30,990",$
+D:\html_files\car58.html,Subaru XV 2.0I-L G4X MY12 AWD,2012,"18,990",$
+D:\html_files\car59.html,Hyundai Veloster  FS,2012,"14,990",$
+D:\html_files\car59.html,Mitsubishi Lancer ES CJ MY12,2012,"11,990",$
+D:\html_files\car59.html,Holden Calais V VE Series II MY12,2012,"14,990",$
+D:\html_files\car59.html,Nissan 370Z  Z34 MY11,2012,"28,990",$
+D:\html_files\car59.html,Subaru Impreza 2.0I G4 MY12 AWD,2012,"11,990",$
+D:\html_files\car59.html,Isuzu D-MAX LS-U MY12 4X4 Dual Range,2012,"32,990",$
+D:\html_files\car59.html,Mitsubishi Triton GLX-R MN MY12 4X4 Dual Range,2012,"26,990",$
+D:\html_files\car59.html,Subaru Forester X S3 MY12 AWD,2012,"11,990",$
+D:\html_files\car59.html,Ford Ranger XL PX 4X4 Dual Range,2012,"21,990",$
+D:\html_files\car59.html,Ford Ranger XL PX 4X4 Dual Range,2012,"23,990",$
+D:\html_files\car60.html,Mazda 3 NEO BL Series 1 MY10,2011,"8,990",$
+D:\html_files\car60.html,Subaru Forester XT Premium S3 MY11 AWD,2011,"15,990",$
+D:\html_files\car60.html,Nissan Navara RX D40 MY11,2011,"15,990",$
+D:\html_files\car60.html,Holden Special Vehicles Clubsport R8 E Series 3,2011,"56,990",$
+D:\html_files\car60.html,Nissan Maxima 250 ST-L J32,2011,"12,990",$
+D:\html_files\car60.html,Toyota FJ Cruiser  GSJ15R 4X4 Dual Range,2011,"33,990",$
+D:\html_files\car60.html,Volkswagen Passat 125TDI CC Type 3CC MY11,2011,"12,990",$
+D:\html_files\car60.html,Subaru Impreza R G3 MY11 AWD,2011,"12,990",$
+D:\html_files\car60.html,Jeep Wrangler Sport JK MY12 4X4,2011,"24,990",$
+D:\html_files\car60.html,Volvo XC90 D5 R-Design MY11 4X4 On Demand,2011,"12,990",$
+D:\html_files\car61.html,Lexus CT 200H Sports Luxury ZWA10R,2011,"22,990",$
+D:\html_files\car61.html,Toyota Landcruiser Prado GXL KDJ150R 4X4 Constant,2010,"24,990",$
+D:\html_files\car61.html,Ford Focus Tdci LV MK II,2010,"11,990",$
+D:\html_files\car61.html,Mini Hatch Cooper R56,2010,"13,990",$
+D:\html_files\car61.html,Hyundai IX35 Highlander LM AWD,2010,"15,990",$
+D:\html_files\car61.html,Audi A4  B8 MY10,2010,"11,000",$
+D:\html_files\car61.html,Nissan Navara RX D40 4X4 Dual Range,2010,"19,990",$
+D:\html_files\car61.html,Toyota Landcruiser 60TH Anniversary VDJ200R MY10 4X4 Constant,2010,"50,990",$
+D:\html_files\car61.html,Nissan X-Trail ST T31 Series IV,2010,"11,990",$
+D:\html_files\car61.html,Toyota Yaris YR NCP90R MY11,2010,"11,990",$
+D:\html_files\car62.html,Holden Special Vehicles Maloo R8 E Series MY09,2009,"54,990",$
+D:\html_files\car62.html,Toyota Corolla Ascent ZRE152R,2009,"8,990",$
+D:\html_files\car62.html,Nissan Navara RX D40 4X4 Dual Range,2009,"13,990",$
+D:\html_files\car62.html,Suzuki Grand Vitara  JB Type 2 4X4 Dual Range,2008,"9,990",$
+D:\html_files\car62.html,Toyota Landcruiser GXL VDJ200R 4X4 Constant,2008,"44,990",$
+D:\html_files\car62.html,Mitsubishi Pajero GLX NS 4X4,2008,"14,990",$
+D:\html_files\car62.html,Suzuki Jimny Sierra Trekker SN413 T6 4X4 Dual Range,2008,"16,990",$
+D:\html_files\car62.html,Subaru Liberty Heritage 4GEN MY09 AWD,2008,"6,990",$
+D:\html_files\car62.html,Mitsubishi Pajero VR-X NS 4X4,2008,"15,990",$
+D:\html_files\car62.html,Holden Special Vehicles Clubsport R8 E Series,2007,"36,990",$
+D:\html_files\car63.html,Toyota Landcruiser GXL VDJ200R 4X4 Constant,2007,"42,990",$
+D:\html_files\car63.html,Holden Special Vehicles Clubsport R8 E Series,2007,"39,990",$
+D:\html_files\car63.html,Mini Hatch Cooper Chilli R56,2007,"16,990",$
+D:\html_files\car63.html,Ford F250 XLT RN,2006,"52,990",$
+D:\html_files\car63.html,Peugeot 307 CC Dynamic T6,2006,"9,990",$
+D:\html_files\car63.html,Toyota Corolla Ascent ZZE122R,2006,"10,490",$
+D:\html_files\car63.html,Mitsubishi Challenger  PA MY05 4X4 Dual Range,2004,"9,990",$
+D:\html_files\car63.html,Nissan Maxima TI J31,2004,"7,990",$
+D:\html_files\car63.html,Holden Special Vehicles Clubsport R8 VX,2000,"36,990",$
